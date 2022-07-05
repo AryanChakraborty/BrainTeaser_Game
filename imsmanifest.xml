@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6F9tZeZqEnA_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Tricked You</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Tricked_You_ORG">
+    <organization identifier="Tricked_You_ORG">
+      <title>Tricked You</title>
+      <item identifier="INTRACTIVE_GAMES_SCO" isvisible="true" identifierref="__6F9tZeZqEnA_course_id_RES">
+        <title>Tricked You</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6F9tZeZqEnA_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/68bNxcTpzzg.png" />
+      <file href="mobile/67lmVMR6RKy_P_0_0_1276_897.png" />
+      <file href="mobile/6dUR2AAWEps.png" />
+      <file href="mobile/6Cx324bdFFp_P_16_246_131_180.png" />
+      <file href="mobile/6Cx324bdFFp_P_142_240_131_180.png" />
+      <file href="mobile/6Cx324bdFFp_P_410_232_131_180.png" />
+      <file href="mobile/5pVZZbwQnOB.png" />
+      <file href="mobile/61hQbhrxYBT.png" />
+      <file href="mobile/6BFERqiqFhV.png" />
+      <file href="mobile/5W5Uo9AFllL.png" />
+      <file href="mobile/5Xb0v6qvvk7_80_P_158_13_128_136.jpg" />
+      <file href="mobile/6Xkh9tiVNRm_P_32_48_144_137.png" />
+      <file href="mobile/6A31E0BACjJ.png" />
+      <file href="mobile/5iflpdWEmSY_P_58_57_152_280.png" />
+      <file href="mobile/6f66XItF7gX_80_P_0_201_600_320.jpg" />
+      <file href="mobile/6ZNrqz3kEPZ.png" />
+      <file href="mobile/6ZNrqz3kEPZ_P_342_0_322_238.png" />
+      <file href="mobile/6ZNrqz3kEPZ_P_0_159_149_215.png" />
+      <file href="mobile/6ZNrqz3kEPZ_P_0_0_194_147.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5edx1RIFl90.js" />
+      <file href="html5/data/js/5h1fkKZtzs4.js" />
+      <file href="html5/data/js/5jp5S4ce6AG.js" />
+      <file href="html5/data/js/5qkRq7uQVfy.js" />
+      <file href="html5/data/js/5qtTzMb3LLW.js" />
+      <file href="html5/data/js/5srDRACVR97.js" />
+      <file href="html5/data/js/5tAvb82KzkE.js" />
+      <file href="html5/data/js/5vh3va9vk59.js" />
+      <file href="html5/data/js/5wJofjrsB4h.js" />
+      <file href="html5/data/js/5XJ1vVKxUZR.js" />
+      <file href="html5/data/js/5Y6RyI3CH9R.js" />
+      <file href="html5/data/js/5zqHQKPVOk7.js" />
+      <file href="html5/data/js/66QcItqBjSw.js" />
+      <file href="html5/data/js/66wwp2hkiRr.js" />
+      <file href="html5/data/js/69EfBolCDBi.js" />
+      <file href="html5/data/js/6egrVMsoNZj.js" />
+      <file href="html5/data/js/6ijHJ90ABQk.js" />
+      <file href="html5/data/js/6IrfbYs8VuS.js" />
+      <file href="html5/data/js/6iYGiO4z6yj.js" />
+      <file href="html5/data/js/6Q45RvbuvCH.js" />
+      <file href="html5/data/js/6TGg9c6ujnf.js" />
+      <file href="html5/data/js/6WyqVLXQYlF.js" />
+      <file href="html5/data/js/6Y9RKxiIyV3.js" />
+      <file href="html5/data/js/6ZA6kzsovLE.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
